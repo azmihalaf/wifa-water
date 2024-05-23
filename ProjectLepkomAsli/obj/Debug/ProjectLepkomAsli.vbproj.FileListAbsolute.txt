@@ -1,0 +1,17 @@
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\bin\Debug\ProjectLepkomAsli.exe.config
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\bin\Debug\ProjectLepkomAsli.exe
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\bin\Debug\ProjectLepkomAsli.pdb
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\bin\Debug\ProjectLepkomAsli.xml
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.Form1.resources
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.Resources.resources
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.vbproj.GenerateResource.cache
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.exe
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.xml
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.pdb
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.Form2.resources
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.vbproj.AssemblyReference.cache
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\bin\Debug\System.IO.Ports.dll
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\bin\Debug\System.IO.Ports.xml
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.vbproj.CopyComplete
+D:\Kuliah\Bahan Lepkom\ProjectLepkomAsli\ProjectLepkomAsli\obj\Debug\ProjectLepkomAsli.Form3.resources
